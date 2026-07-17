@@ -16,7 +16,7 @@ This mirrors the methodology of published hybrid statistical + deep learning for
 - **Source:** [Hourly Energy Demand, Generation & Weather — Panama](https://www.kaggle.com/datasets/saurabhshahane/electricity-load-forecasting) (Kaggle)
 - **Granularity:** Hourly, national electricity demand (`nat_demand`) for Panama, alongside weather variables (temperature, humidity, cloud cover, wind speed) from three cities/stations: Tocumen (`toc`), Santiago (`san`), and David (`dav`).
 - **Span:** ~2015–2020 (2020 excluded from modeling to avoid pandemic-related demand anomalies).
-- The dataset is **not included in this repo** due to size/licensing — see [Setup](#setup) for how to get it.
+
 
 ## Methodology
 
